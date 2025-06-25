@@ -2,7 +2,7 @@
 
 This project uses Natural Language Processing (NLP) and Machine Learning techniques to analyze, summarize, and compare a candidate's resume with a given job description. It also includes spell checking and a similarity scoring system to evaluate resume relevance.
 
-📌 Features
+📌 Features:
 
 🔍 Resume & Job Description Similarity using cosine similarity
 
@@ -16,7 +16,7 @@ This project uses Natural Language Processing (NLP) and Machine Learning techniq
 
 📊 Optional: Visualization of text data (word frequency, term matrix)
 
-🛠 Technologies Used
+🛠 Technologies Used:
 
 Python
 
